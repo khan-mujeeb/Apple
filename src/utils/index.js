@@ -2,8 +2,7 @@ import hero from "/assets/images/hero.jpeg";
 
 export const heroImg = hero;
 
-
-import hmv from "..//assets/videos/hero.mp4";
+import hmv from "/assets/videos/hero.mp4";
 import smallmv from "/assets/videos/smallHero.mp4";
 import highlightFirstmv from "/assets/videos/highlight-first.mp4";
 import highlightSectmv from "/assets/videos/hightlight-third.mp4";
